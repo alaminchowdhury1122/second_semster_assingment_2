@@ -1,5 +1,6 @@
 
 // frist program
+// Md. Al Amin (26205012)
 
 #include <iostream>
 using namespace std;
